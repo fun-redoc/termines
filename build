@@ -1,0 +1,4 @@
+rm mines
+clear
+cc mines.c -O0 -o mines -g -arch x86_64
+./mines
